@@ -1,9 +1,7 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
 one:
-  body: MyString
-  list_id: 
+  body: 'do this sh*t for the eff of it'
+  list: one
 
 two:
-  body: MyString
-  list_id: 
+  body: 'this is a really hard step'
+  list: two
