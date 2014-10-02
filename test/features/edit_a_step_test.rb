@@ -1,6 +1,6 @@
 require 'test_helper'
 
-feature 'Editting a step' do
+feature 'Editing a step' do
   scenario 'Edit a step' do
     visit list_path(lists(:one))
     first('.step-edit').click
